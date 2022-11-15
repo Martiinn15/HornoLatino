@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Apptheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+
+    </style>
+
+    <style name="Apptheme2" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">#006200EE</item>
+        <item name="colorPrimaryDark">#003700B3</item>
+    </style>
+    
+    <style name="SplashTheme" parent="Apptheme">
+        <item name="android:windowBackground">@drawable/splashscreen</item>
+    </style>
+
+    <style name="word_title">
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:paddingLeft">8dp</item>
+        <item name="android:background">@android:color/holo_orange_light</item>
+        <item name="android:textAppearance">@android:style/TextAppearance.Large</item>
+    </style>
+
+</resources>

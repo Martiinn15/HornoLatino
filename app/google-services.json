@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "161412282023",
+    "project_id": "hornolatino-1123",
+    "storage_bucket": "hornolatino-1123.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161412282023:android:b047b6d1db229a40f14d82",
+        "android_client_info": {
+          "package_name": "com.example.vistaprincipal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161412282023-df66itchmqtorm279kk2hmco83a3e1pr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAepzJLLQ-XWzdlfgptoFHoqQaZVZSLNN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161412282023-df66itchmqtorm279kk2hmco83a3e1pr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
